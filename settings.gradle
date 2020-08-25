@@ -1,0 +1,2 @@
+rootProject.name='CloneCoding-Todoist'
+include ':app'
